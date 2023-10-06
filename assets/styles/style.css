@@ -39,3 +39,10 @@ nav a:hover{
     width: 200px;
   }
 
+  .card{
+    box-shadow: 0 4px 31px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+  }
+
